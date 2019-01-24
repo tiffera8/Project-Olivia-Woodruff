@@ -1,0 +1,22 @@
+body {
+  font-family: Georgia;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png);
+}
+
+.header {
+  background-color: cornflowerblue;
+  text-align: center;
+}
+
+.heading {
+  font-weight: bold;
+}
+
+h1 {
+  color: azure;
+}
+
+.text-design {
+  opacity: 50%;
+  font-size: 20px;
+}
